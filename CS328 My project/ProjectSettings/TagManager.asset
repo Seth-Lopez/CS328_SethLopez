@@ -11,9 +11,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Player
+  - PlayerBounds
+  - Camera
   - 
   - 
   - 
@@ -40,4 +40,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Weapons
+    uniqueID: 2783416311
+    locked: 0
+  - name: Player
+    uniqueID: 2337529849
     locked: 0
